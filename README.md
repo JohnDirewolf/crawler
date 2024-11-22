@@ -1,6 +1,7 @@
 ## Web Crawler in Go
 
-### Descriptoin 
-Boot.dev guided progect.
+### Description 
+Boot.dev guided project.
 
-### Uses Go  go1.23.3
+### Requires
+Uses Go go1.23.3
